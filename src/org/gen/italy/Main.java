@@ -74,7 +74,7 @@ public class Main {
                 for (int j = 0; j < 8; j++) {
                     System.out.print(campo[i][j] + " "); // per stampare ogni cella del campo
                 }
-                System.out.println();
+                System.out.println(); 
             }
         } while (!naveAffondata); // la condizione viene verificata alla fine del ciclo e il ciclo continua finché la nave non è affondata
 
